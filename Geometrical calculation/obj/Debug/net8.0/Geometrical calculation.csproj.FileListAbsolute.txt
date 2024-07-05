@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\bin\Debug\net8.0\Geometrical calculation.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\bin\Debug\net8.0\Geometrical calculation.deps.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\bin\Debug\net8.0\Geometrical calculation.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\bin\Debug\net8.0\Geometrical calculation.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\bin\Debug\net8.0\Geometrical calculation.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\Geometrical calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\Geometrical calculation.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\Geometrical calculation.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\Geometrical calculation.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\Geometrical calculation.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\refint\Geometrical calculation.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\Geometrical calculation.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\Geometrical calculation.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Geometrical calculation\Geometrical calculation\obj\Debug\net8.0\ref\Geometrical calculation.dll
